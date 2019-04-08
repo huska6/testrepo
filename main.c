@@ -1,8 +1,10 @@
 #include "stdio.h"
 
+
 int main(void)
 {
-	int a;
+int a;
 
-	a = a +1;
+a = a +1;
+printf("hovno");
 }
